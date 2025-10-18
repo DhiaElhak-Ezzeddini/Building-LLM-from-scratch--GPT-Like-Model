@@ -1,0 +1,34 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data handling and utilities
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Jupyter notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Text preprocessing and tokenization
+regex>=2023.5.5
+nltk>=3.8.1
+sentencepiece>=0.1.99
+transformers>=4.40.0
+
+# Optional: for interactive UI and visualization
+streamlit>=1.30.0
+gradio>=4.0.0
+
+# Plotting and PDF export
+matplotlib-inline>=0.1.6
+reportlab>=4.0.0
+
+# Optional: model checkpointing / saving
+joblib>=1.3.0
